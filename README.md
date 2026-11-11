@@ -1,6 +1,6 @@
 # Study 0.2.0
 
-Приложение Android для исследования реального мира. Разработчик — **Alemus**.
+Приложение Android для исследования реального мира
 
 [Скачать актуальную версию APK](https://github.com/AlemusSs/Study/releases/latest/download/Study-latest.apk) · [История выпусков и даты](https://github.com/AlemusSs/Study/releases) · [Telegram](https://t.me/alemus_ii)
 
