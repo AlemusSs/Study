@@ -38,10 +38,4 @@ MapLibre Native — BSD-2-Clause; OpenFreeMap / OpenMapTiles; © OpenStreetMap c
 
 Карта центрирована на Москве.
 
-![Карта](screenshots/map.png)
-
-![Статистика](screenshots/statistics.png)
-
-![История](screenshots/history.png)
-
-![Параметры](screenshots/settings.png)
+![Карта](screenshots/map.png) ![Статистика](screenshots/statistics.png) ![История](screenshots/history.png) ![Параметры](screenshots/settings.png)
